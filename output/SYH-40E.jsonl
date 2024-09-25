@@ -1,0 +1,60 @@
+{"query": "What is the Curing Box designed for according to the instruction manual?", "answer": "The Curing Box is designed for curing cement mortar specimens."}
+{"query": "Which standards did China Building Materials Text & Certification Group follow while developing the Curing Box?", "answer": "The China Building Materials Text & Certification Group followed the standards GB/T17671-1999 and JC/T959-2005 for developing the Curing Box."}
+{"query": "How does the newer model differ from the previous YH-40B curing box regarding its features?", "answer": "The newer model uses进口stainless steel for the inner wall and polyurethane foam for insulation, improving upon the YH-40B's insulation layer and preventing rust and turbidity of the outer box. However, there seems to be an issue with lacking temperature control and display devices compared to the desired standards."}
+{"query": "In what way do laboratories use this equipment within the context of the building materials and construction sector?", "answer": "Laboratories use this equipment to maintain cement and concrete blocks during tests assessing their strength in the building materials and construction industry."}
+{"query": "Why might the results of specimen curing have been potentially inaccurate with prior technologies lacking specific controls?", "answer": "Prior technologies lacked temperature control and display devices. They could only increase humidity but couldn't measure or control its level accurately in the curing box, leading to potential inaccuracies in specimen curing results."}
+{"query": "Can you explain how the newly introduced automatic control functions work inside the curing box?", "answer": "The new automatic control functions in the curing box operate by using heating and compressor cooling to maintain required temperatures. Ultrasonic humidifiers ensure proper humidity levels. Once powered on, these systems automatically regulate conditions to meet standards without further manual intervention."}
+{"query": "What improvements were made using stainless steel plates and polyurethane foam concerning thermal efficiency?", "answer": "The use of stainless steel plates for the inner wall and polyurethane foam for insulation corrected flaws in the insulation layer, enhancing thermal efficiency. This prevents rust and discoloration on the outer box's iron plate."}
+{"query": "Does the technical parameter section provide information about the electrical rating or other specifications needed for operating the Curing Box?", "answer": "No, the provided references do not include details on the electrical ratings or operational specifications for the Curing Box."}
+{"query": "Has any part of the design received recognition through patents? If yes, which components specifically?", "answer": "Yes, the design has obtained national专利for certain components, but specific details are not provided."}
+{"query": "Is there mention of user-friendly aspects like ease-of-use and convenience when controlling parameters such as temperature and humidity levels automatically?", "answer": "Yes, the references describe easy-to-operate devices with automatic controls for temperature and humidity, including clear digital displays. Operation is described as simple and convenient."}
+{"query": "箱体内部尺寸是多少？", "answer": "箱体内尺寸为700×560×1100 mm。"}
+{"query": "软质练习测试的最大容量是几层多少单位？", "answer": "软质练习测试最大容量为5层，每层8单位，共40单位。"}
+{"query": "恒温精度范围是什么温度区间？", "answer": "恒温精度范围是(68~68.9)℉。"}
+{"query": "加湿器的工作电压及功率分别是多少？", "answer": "参考内容中未提及加湿器的具体工作电压，但加热功率为400W，冷却功率为160W。"}
+{"query": "循环风扇的功率有多大？", "answer": "循环风扇的功率为400W。"}
+{"query": "设备工作的环境温度应该在什么范围内？", "answer": "工作环境温度范围为32℉~ 95℉。"}
+{"query": "当箱内湿度低于设定值时，仪表如何工作以维持湿度？", "answer": "当箱内湿度低于设定值，仪表会启动加湿器进行加湿，达到设定湿度后自动停止。重复此过程以控制湿度。为了确保箱内温湿度均匀，特别采用了内部循环系统。"}
+{"query": "仪器是如何通过干湿温度传感器信号控制加热或制冷的？", "answer": "仪器将干湿温度传感器信号转换为数字信号，单片微处理器进行显示和控制，当温度低于设定值时，启动加湿器；高于上限则命令压缩机冷却。"}
+{"query": "该装置的净重是多少千克？", "answer": "该装置的净重为150千克。"}
+{"query": "使用维护盒前需要完成哪些准备工作来确保其正常运行？", "answer": "首先将固化箱远离热源放置，填充水瓶并把棉纱探头浸入水中。取出加湿器水箱加入清水，并开启开关。为保持湿度稳定，请添加底部的加湿水盘。当箱内温度低于设定值时，仪表会自动控制加湿器工作至达到要求后停止，以保证温湿度均匀。"}
+{"query": "棉纱在水箱顶部的作用是什么？", "answer": "当风扇工作时，风会通过棉纱去除湿气。"}
+{"query": "风扇如何通过棉纱降低湿度？", "answer": "当风扇工作时，风穿过水箱顶部的棉纱，带走湿气，从而降低湿度。"}
+{"query": "为什么要在循环风机中加入调度开关？", "answer": "为了使箱内的温度更加均匀，可以通过调整风量来适应实际使用需求。"}
+{"query": "如何检查仪器连接是否可靠？", "answer": "当供电电压正常时，开启仪表电源，通过电源复位进入工作状态，开始测量、显示和控制温度湿度，以此来检查连接可靠性。"}
+{"query": "当供电电压正常时，打开电源后会发生什么情况？", "answer": "仪器会重置并进入工作状态，开始测量、显示和控制温度及湿度。"}
+{"query": "'↻'键的主要功能有哪些？", "answer": "'↻'键用于进入、切换和退出参数设置状态或查看状态。当所有参数设置完成后，再次按下'↻'键，仪器将保存设置并返回到测量模式。"}
+{"query": "'◄'、'▼' 和 '▲' 键分别用于哪些操作？", "answer": "'◄': 左移键，选择操作数据位。\n'▼': 减少键，参数设置时减小值。\n'▲': 增加键，参数设置时增大值。"}
+{"query": "测量状态下LED显示屏上行显示的是什么信息？", "answer": "测量状态下，LED显示屏上行显示实时测量数据。左侧为湿度信息，右侧为温度信息。温度格式为00.0-99.9℃，湿度格式为00-99%RH。"}
+{"query": "温度数据的具体显示范围是多少摄氏度？", "answer": "温度数据显示范围为00.0-99.9℃。"}
+{"query": "修改控制值参数状态下的位闪烁有何作用？", "answer": "在测量状态下，通过修改位闪烁可以调整待改数值。使用“▲”或“▼”改变闪烁位的值，“◀”键左移以选择操作的数据位，选中位会闪烁提示。"}
+{"query": "在设置参数状态下，如果长时间无操作，仪器会自动返回到哪种状态？", "answer": "在设置参数状态下，若长时间无操作，约30秒后，仪器将自动返回正常测量状态。"}
+{"query": "如何进入控制参数设置状态？", "answer": "在测量状态下，同时按住\"A\"和\"B\"几秒，即可进入控制参数设置状态。"}
+{"query": "修改完所有参数后，按哪个键可以保存并退出设置状态？", "answer": "按下\"↻\"键即可保存控制值并退出设置状态。"}
+{"query": "三级别参数默认情况下，'HH'+'HL'必须满足什么条件？", "answer": "在三级别参数默认情况下，'HH'+'HL'必须大于等于1℃。"}
+{"query": "定时加湿功能何时会被激活？", "answer": "当采样湿度持续超过1分钟且等于或大于设定湿度时，设备将自动加湿S2分钟。"}
+{"query": "如何进入三级别参数界面？", "answer": "同时按下“◀”和“▼”键即可进入三级别参数界面。"}
+{"query": "风速系数中的'A值'影响哪些数据测量结果？", "answer": "'A值'直接影响湿度测量结果。当仪器的'A值'更接近实际时，测得的湿度更准确。"}
+{"query": "当采样湿度持续多久且达到设定值时，设备将执行何种动作？", "answer": "当采样湿度持续超过1分钟并等于或大于设定值时，设备自动加湿S2分钟。"}
+{"query": "为什么说当仪表的'A值'更接近实际数值时，测得的湿度更为准确？", "answer": "因为仪表的湿度计算依赖于风速系数A值，当A值更贴近实际情况，计算出的湿度也就更加精准。"}
+{"query": "超时时长是多长时间之后，仪器因未检测到用户的进一步操作而自行回到正常测量模式？", "answer": "约30秒无操作后，仪器自动返回正常测量状态。"}
+{"query": "在温度控制过程中，当内部箱温低于多少度时加热继电器会吸合启动加热设备？", "answer": "当内部箱温低于19.5℃时，加热继电器会吸合启动加热设备。"}
+{"query": "如果设置的温度上限相对值（TH）是0.5℃，那么实际操作中这个数值是如何影响仪器的行为的？", "answer": "当箱内温度超过设定控制值“ST”(如20℃)加上TH(0.5℃)，即达到20.5℃时，设备开始制冷；降至低于或等于ST+TD(假设为19.8℃)停止制冷。"}
+{"query": "描述一下湿度控制系统中的返回差异“HA”的作用是什么？", "answer": "返回差异“HA”用于防止控制振荡，在湿度达到设定值时，确保设备不会频繁动作。“HA”稳定了允许范围内的控制波动，并减少了设备的动作次数。例如，当设置SH为90%，且HA为1%时，湿度低于88%开始加湿，达89%停止，避免反复启停。"}
+{"query": "为什么合理的回差参数设定对于防止频繁动作、延长设备寿命至关重要？", "answer": "合理设置回差参数能稳定控制波动，避免温度湿度达临界值时控制振荡，减少执行器频繁动作，从而延长设备使用寿命。"}
+{"query": "在什么情况下，装置开始制冷过程并停止加热？", "answer": "当温度持续上升超过20.5℃时，设备开始制冷，并且会停止加热。"}
+{"query": "如何理解‘若没有合理地设置回差参数，则会导致当前温度达到临界控制值时出现控制震荡’这句话的意思？", "answer": "如果没有合适回差设定，当温湿度达控制点会频繁启停设备，造成振荡，影响精度和设备寿命。合理回差可稳定此振荡于允许范围。"}
+{"query": "当空气湿度上升至超过哪个百分比的时候，系统将开启除湿功能？", "answer": "当空气湿度上升至超过92%时，设备将开始除湿。但在描述中提到，一旦湿度低于91%，除湿过程会停止。这个设定可能用于避免过度干燥的情况发生。不过直接针对您的提问，“启动”除湿的功能会在湿度高于92%的情况下激活。"}
+{"query": "温度或湿度到达特定阈值后，采取何种措施可以稳定由产生的控制振荡且减少控制精度的影响？", "answer": "合理设置回差参数可稳定控制振荡，并降低影响。具体可通过设定上下限相对值和温差来实现。例如，“ST”设为20°C，“TH”“TL”各设为0.5°C，“TU”设为0.7°C，“Td”设为0.2°C。当箱内温度低于19.5°C时启动加热继电器周期吸合加温。这样能防止频繁动作缩短设备寿命。"}
+{"query": "举例说明，在相对湿度控制为90%，上/下限偏差均为2%的情况下，何时设备将停止加湿？", "answer": "当湿度达到92%时，设备会停止加湿，直到湿度降至88%以下才会重新开始加湿。"}
+{"query": "简述为何需要针对不同的实际情况来选择合适的回差范围。", "answer": "合理设置回差可稳定控制波动于允许范围内，同时降低控制精度，应按实际需求选取，防止设备频繁动作，延长使用寿命。如温度设为20°C，上下限相对值各0.5°C，上温差0.7°C，下温差0.2°C，箱内低于19.5°C时加热继电器吸合加温。这样能有效避免控制振荡和提高系统稳定性。"}
+{"query": "在控制过程中，如果干湿球传感器损坏，仪器如何显示故障？", "answer": "如果干湿球传感器损坏，仪器左侧的湿度显示区域会显示\"--\"，并关闭湿度控制输出。"}
+{"query": "当温度或湿度回差设置不合理时，仪器会采取什么措施？", "answer": "当上下限和回差参数设置不合理时，仪器将停止采样和控制输出更新，在上显示空白，并在下显示错误\"EER\"，直至参数被正确修正。"}
+{"query": "处理机器时应注意的最大倾斜角度是多少度？", "answer": "处理机器时的最大倾斜角度不应超过45度。"}
+{"query": "为什么在启动前需要连接电源线的地线？", "answer": "为了避免漏电事故，在启动机器前，请先连接电源线的地线。"}
+{"query": "频繁开启门会对制冷压缩机产生怎样的影响？", "answer": "频繁开门可能会影响制冷压缩机的工作效率，导致设备不能正常降温或维持所需温度。严重时，可能会缩短压缩机寿命。建议使用时尽量减少开门次数和时间。"}
+{"query": "保修期内因不当使用导致电器部件损坏是否免费维修？", "answer": "不是，费用按情况收取。因为在保修条款中说明，由于用户的不当使用造成的电气和其他组件的损害，需要按照具体情况收费修理。"}
+{"query": "保证加湿器正常工作，应怎样维护其水位？", "answer": "需频繁检查传感器盒水位，确保有水以维持湿度准确性。当加湿器水少或无水时，应及时注水至箱中，以便正常运行。添加水分时注意电源安全。"}
+{"query": "仪表出厂后的保修期是多久？", "answer": "从出厂日起，保修期为一年。"}
+{"query": "超过保修期限后，修理费用由谁承担？", "answer": "若仪器过保，维修费需用户自行承担。"}
+{"query": "确保湿度准确性的关键因素是什么？", "answer": "确保湿度准确性关键是传感器箱水位正常。需频繁检查并保持有水状态。"}
